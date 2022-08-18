@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+
+.avatar-author {
+  display: flex;
+  flex-direction: row;
+}
+.blog-item-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.avatar-dp {
+  height: 55px;
+  width: 55px;
+  border-radius: 35px;
+  margin: 10px;
+}
+
+.blogItem-image {
+  border-radius: 10px;
+}

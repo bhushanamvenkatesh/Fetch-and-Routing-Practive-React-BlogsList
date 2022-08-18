@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+
+.each-blog-container {
+  display: flex;
+  border: 1px solid #8e8e8e;
+  margin: 15px;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.blog-image {
+  width: 400px;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+.topic {
+  color: #8e8e8e;
+  font-weight: 500;
+}
+
+.title {
+  font-size: large;
+  font-weight: 500;
+}
+
+.avatar-Image {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+  border-radius: 25px;
+}
+
+.avatar-author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+}
